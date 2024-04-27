@@ -1,0 +1,4 @@
+﻿  map.cpp
+C:\Users\user\source\repos\DS_PROJECT\DS_PROJECT\map.cpp(53,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\DS_PROJECT\DS_PROJECT\map.cpp(53,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DS_PROJECT.vcxproj -> C:\Users\user\source\repos\DS_PROJECT\x64\Debug\DS_PROJECT.exe
